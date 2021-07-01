@@ -1,0 +1,15 @@
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ödev5.exe
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ödev5.deps.json
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ödev5.runtimeconfig.json
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ödev5.runtimeconfig.dev.json
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ödev5.dll
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ref\ödev5.dll
+C:\Users\Merve\source\repos\ödev3\ödev5\bin\Debug\net5.0\ödev5.pdb
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.AssemblyInfoInputs.cache
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.AssemblyInfo.cs
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.dll
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ref\ödev5.dll
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.pdb
+C:\Users\Merve\source\repos\ödev3\ödev5\obj\Debug\net5.0\ödev5.genruntimeconfig.cache
